@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x06. AirBnB clone - Web dynamic
 
 Resources
@@ -44,3 +45,6 @@ There should be one project repository per group. If you clone/fork/whatever a p
 CONTIBUTORS
 humphrey abwao
 evance Odhiambo
+=======
+# AirBnB_clone_v4
+>>>>>>> 8a838a4faf600d6fdaa6f1f35e8334e6e9931313
